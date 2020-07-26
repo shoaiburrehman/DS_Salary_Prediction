@@ -1,6 +1,6 @@
 # DS Salary Prediction
-![GitHub Logo](/image/sample_image.png)
-Format: ![Alt Text](url)
+
+/image/sample_image.png
 
 * This is the Repository for Data Science Salary Prediction of Glassdoor's Data Science Job
 * First we scrapped Data Science Job from Glassdoor.
